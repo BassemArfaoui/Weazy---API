@@ -1,0 +1,14 @@
+.env
+
+*.txt
+
+*.pkl 
+
+*.log
+
+*.npy
+
+/*/__pycache__
+
+*.pyc
+
